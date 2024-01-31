@@ -6,5 +6,6 @@
 }
 
 body {
-  background: rgb(17, 17, 17);
+  background: radial-gradient(ellipse at left top, #5b1baf, #1a0438),
+  radial-gradient(ellipse at right bottom, #1a0438, #050308);
 }
