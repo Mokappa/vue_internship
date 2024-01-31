@@ -33,6 +33,12 @@ const googleSearchLink = computed(() => {
     gap: 40px;
     text-decoration: none;
     color: inherit;
+    transition: .08s ease;
+}
+
+.card-flex:hover {
+    box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.6);
+    background: rgb(117, 54, 175);
 }
 
 .card-img {
