@@ -24,7 +24,7 @@ git clone https://github.com/Mokappa/vue_internship.git
 **Navigate to the project directory**
 
 ```
-cd vue-project
+cd vue_internship/vue-project
 ```
 
 **Install dependencies**
